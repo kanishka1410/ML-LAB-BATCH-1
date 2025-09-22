@@ -1,6 +1,6 @@
 # Name: Kanishka S
 # Roll No: 2023115114
-# File: KNN (Perceptron implementation)
+# File: ANN (Perceptron implementation)
 # Date: 15-09-2025
 
 import numpy as np
